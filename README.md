@@ -1,4 +1,4 @@
-
+![RANJPT](https://github.com/mizegerd-tech/RanJPT-AI/blob/main/animation.webm)
 
 # 🚀RANJPT Bot-Your Intelligent Engineering Assistant🤖
 Welcome to the RANJPT Bot project! This is a powerful Telegram bot designed to assist university students across a wide range of engineering disciplines, including Mechanical, Power, Computer, Chemistry, and many more.
