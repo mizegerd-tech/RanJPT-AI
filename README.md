@@ -34,7 +34,7 @@ If you're interested in this project and would like to know more, or if you have
 This project is powered by Mizegerd.tech. We're passionate about creating tools that enhance learning and make education more accessible for everyone.
 
 ## 📜 License
-© Mizegerd.tech 2023. All rights reserved.
+© Mizegerd.agency 2023. All rights reserved.
 
 
 
